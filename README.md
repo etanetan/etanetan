@@ -25,11 +25,17 @@ GitHub: https://github.com/etanetan
 
 ## Experience
 
-### Data Science Intern - Sezzle: Dec 2022 - Present
+### Data Analyst - Sezzle: May 2023 - Present
 
 ```
-● Gather and analyze data using PostgreSQL and create visualizations in Redash for finance and sales
-teams, which allows them to make more informed future decisions.
+● Gather and analyze data using PostgreSQL and create visualizations in Redash.
+● Create ML models to improve company profitability, decrease losses, and improve customer engagement.
+```
+
+### Data Science Intern - Sezzle: Dec 2022 - May 2023
+
+```
+● Gather and analyze data using PostgreSQL and create visualizations in Redash.
 ● Worked with a team to take on tickets submitted by other teams within the company.
 ```
 ### Web Development Intern - CMS Mortgage: May 2022 - September 2022
