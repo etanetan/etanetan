@@ -1,9 +1,5 @@
 # Ethan Myos
 
-## Skills
-
-JavaScript, HTML, CSS, React, C++, Python, Java, PostgreSQL, Git
-
 ## Experience
 
 ### Data Analyst - Sezzle: May 2023 - Present
@@ -44,6 +40,10 @@ A calculator that can compute using basic operations with a user interface to in
 Concepts used in this project: CSS Grid and modularity.
 
 GitHub: https://github.com/etanetan
+
+## Skills
+
+JavaScript, HTML, CSS, React, C++, Python, Java, PostgreSQL, Git
 
 ## Education
 
